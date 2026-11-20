@@ -1,73 +1,96 @@
-
 <div align="center">
 
-# Hi there, I'm Leonardo! 👋
+# Hey, I'm Leonardo Ribeiro! 👋
 
-### Software Engineering Student | Aspiring Developer
+### Software Engineering Student · Developer · AI Enthusiast
 
-**Software Development • Artificial Intelligence • Continuous Learning**
+I build practical solutions, learn by doing, and enjoy turning ideas into software.
+
+[![GitHub](https://img.shields.io/badge/GitHub-leoribeirodev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/leoribeirodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoribeiro-dev/)
+[![TreeMap](https://img.shields.io/badge/Project-TreeMap-343A40?style=flat-square&logoColor=white)](https://treemap.savi.tec.br/)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About me
 
-I'm **Leonardo Ribeiro**, a Software Engineering student passionate about technology, artificial intelligence, and building practical software solutions.
+I'm **Leonardo Ribeiro**, a Software Engineering student with hands-on experience in web development, API integrations, databases, and working with remote servers.
 
-I'm continuously improving my programming skills through personal projects, academic studies, and collaborative development.
+I enjoy building real projects, understanding how systems work, and using AI tools to support development while continuing to strengthen my technical skills.
 
 - 🎓 Studying **Software Engineering**
-- 🤖 Interested in **Artificial Intelligence**
-- 💻 Focused on **Software Development**
-- 🦎 Co-founder of **Gekko's Dev**
-- 🚀 Building projects and expanding my technical knowledge
+- 🦎 Co-founder of **Gekko's Dev**, a collaborative software initiative
+- 🌳 Involved in developing **TreeMap**, a tree observation and environmental mapping platform
+- 🎯 Interested in **software development, artificial intelligence, and internship opportunities**
 
----
+## 🛠️ Technologies I use
 
-### 🛠️ Technologies & Tools
+### Languages & web development
 
-**Currently working with**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `VS Code`
+### Databases & data
 
-**Currently learning & exploring**
+![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-`C++` · `Software Engineering` · `AI Development`
+### Tools, integrations & infrastructure
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-30363D?style=flat-square&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-444C56?style=flat-square&logoColor=white)
 
-### 🚀 Projects
+I also work with **Leaflet**, **Tailwind CSS**, **JSON**, and third-party APIs in the TreeMap project.
 
-#### 🌳 TreeMap
-A collaborative environmental mapping project focused on tree observations and data visualization.
+## 📚 What I'm learning next
 
-**[Explore TreeMap](https://treemap.savi.tec.br/)**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-#### 🦎 Gekko's Dev
-A collaborative initiative focused on developing software projects, improving technical skills, and creating practical solutions.
+I'm planning to deepen my knowledge of **database systems**, **software architecture**, and **integrating AI into applications** as I develop new websites and apps.
 
-*More projects and updates coming soon.*
+## 🚀 Featured projects
 
----
+### 🌳 [TreeMap — Environmental Mapping](https://treemap.savi.tec.br/)
 
-### 🎯 Current Goals
+A web platform for exploring tree observations on an interactive map, integrating external observation data and presenting environmental information.
 
-- Strengthen my programming fundamentals
-- Build and document real-world applications
-- Explore AI technologies and their practical uses
-- Improve my software engineering skills
-- Pursue internship opportunities in software development and AI
+**Experience involved:** interactive maps, API integration, data processing, and web development.
+
+### 🦎 Gekko's Dev
+
+A collaborative software initiative focused on creating websites and applications, improving our development workflow, and building real-world solutions.
+
+*More projects and technical documentation are on the way.*
+
+## 🎯 What I'm focused on
+
+- Building and documenting projects that solve real problems
+- Strengthening software engineering fundamentals and database skills
+- Expanding into full-stack development and AI-powered applications
+- Growing toward a software development or AI-focused internship
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 🚀
+**Thanks for visiting my profile!** 🚀
 
-*Always learning. Always building.*
+*Learning, building, and improving — one project at a time.*
 
 </div>
+
 
 
 <!--
