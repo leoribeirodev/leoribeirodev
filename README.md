@@ -60,26 +60,42 @@ I also work with **Leaflet**, **Tailwind CSS**, **JSON**, and third-party APIs i
 
 I'm planning to deepen my knowledge of **database systems**, **software architecture**, and **integrating AI into applications** as I develop new websites and apps.
 
-## 🚀 Featured projects
 
-### 🌳 [TreeMap — Environmental Mapping](https://treemap.savi.tec.br/)
+## 🚀 Featured Projects
 
-A web platform for exploring tree observations on an interactive map, integrating external observation data and presenting environmental information.
+### 🌳 [TreeMap — Interactive Environmental Mapping](https://treemap.savi.tec.br/)
 
-**Experience involved:** interactive maps, API integration, data processing, and web development.
+TreeMap is a web platform designed to explore tree observations through interactive maps, external data integrations, and environmental information.
 
-### 🦎 Gekko's Dev
+**My technical experience with the project:**
+- 🗺️ Building and improving interactive maps with Leaflet
+- 🔗 Integrating observation data from third-party APIs
+- 📊 Processing and displaying tree measurements and environmental data
+- 💻 Improving the user interface and web application features
 
-A collaborative software initiative focused on creating websites and applications, improving our development workflow, and building real-world solutions.
+**Technologies:** `JavaScript` · `Leaflet` · `Tailwind CSS` · `PHP` · `REST APIs` · `JSON`
 
-*More projects and technical documentation are on the way.*
+🔗 **[Explore the live application](https://treemap.savi.tec.br/)**
 
-## 🎯 What I'm focused on
+---
 
-- Building and documenting projects that solve real problems
-- Strengthening software engineering fundamentals and database skills
-- Expanding into full-stack development and AI-powered applications
-- Growing toward a software development or AI-focused internship
+### 🦎 [Gekko's Dev — Software Development](https://github.com/gekkosdev)
+
+Gekko's Dev is a collaborative software development initiative I co-founded with my partner.
+
+We're building a foundation for developing websites, applications, and practical digital solutions while improving our technical skills and engineering workflow.
+
+**Current focus:**
+- 💻 Planning and developing software projects
+- 📋 Organizing tasks, documentation, and development workflows
+- 🤝 Practicing collaborative development
+- 🚀 Turning ideas into real applications
+
+🔗 **[Visit Gekko's Dev on GitHub](https://github.com/gekkosdev)**
+
+---
+
+*More projects and technical documentation coming soon.*
 
 ---
 
