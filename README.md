@@ -63,19 +63,25 @@ I'm planning to deepen my knowledge of **database systems**, **software architec
 
 ## 🚀 Featured Projects
 
-### 🌳 [TreeMap — Interactive Environmental Mapping](https://treemap.savi.tec.br/)
+### 🌳 [TreeMap-ITE — Environmental Mapping](https://github.com/leoribeirodev/treemap-ite)
 
-TreeMap is a web platform designed to explore tree observations through interactive maps, external data integrations, and environmental information.
+**Role: Lead Developer & Code Maintainer**
 
-**My technical experience with the project:**
-- 🗺️ Building and improving interactive maps with Leaflet
-- 🔗 Integrating observation data from third-party APIs
-- 📊 Processing and displaying tree measurements and environmental data
-- 💻 Improving the user interface and web application features
+TreeMap-ITE is an institutional environmental mapping project that brings together interactive maps, tree observations, and environmental data.
 
-**Technologies:** `JavaScript` · `Leaflet` · `Tailwind CSS` · `PHP` · `REST APIs` · `JSON`
+As the project's lead developer, I am responsible for implementing, improving, and maintaining the web application, translating project requirements into functional software.
 
-🔗 **[Explore the live application](https://treemap.savi.tec.br/)**
+**Key responsibilities:**
+- Development and maintenance of the web application
+- Interactive maps and geospatial visualization
+- Integration with external APIs
+- Tree observation data processing
+- Environmental calculations and data visualization
+- Feature implementation and technical improvements
+
+**Tech Stack:** `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` · `Leaflet` · `PHP` · `REST APIs`
+
+**[🌐 Live Website](https://treemap.savi.tec.br/)** · **[💻 Source Code](https://github.com/leoribeirodev/treemap-ite)**
 
 ---
 
