@@ -22,7 +22,7 @@ I enjoy building real projects, understanding how systems work, and using AI too
 
 - 🎓 Studying **Software Engineering**
 - 🦎 Co-founder of **Gekko's Dev**, a collaborative software initiative
-- 🌳 Involved in developing **TreeMap**, a tree observation and environmental mapping platform
+🌳 Lead Developer & Code Maintainer of TreeMap-ITE, an institutional environmental mapping platform
 - 🎯 Interested in **software development, artificial intelligence, and internship opportunities**
 
 ## 🛠️ Technologies I use
